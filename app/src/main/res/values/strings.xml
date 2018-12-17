@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatKinder</string>
+    <string name="title_activity_basic_chat">BasicChat</string>
+</resources>

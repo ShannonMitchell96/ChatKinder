@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1018576094505",
+    "firebase_url": "https://chatkinder.firebaseio.com",
+    "project_id": "chatkinder",
+    "storage_bucket": "chatkinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018576094505:android:6809e1fc4cc7c164",
+        "android_client_info": {
+          "package_name": "com.example.chatkinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018576094505-3jbicsfsvim6kchq3j9uq1s7pbaihmaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatkinder",
+            "certificate_hash": "e4dbb702574bb81470e4cfe45b5b0cfd32cfc8c7"
+          }
+        },
+        {
+          "client_id": "1018576094505-gnil5oldjvqed8hldkisrp0lsv3sskvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw-sVfItTz3xjMxzkcTgqP4NL5AW7WXtM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018576094505-gnil5oldjvqed8hldkisrp0lsv3sskvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
